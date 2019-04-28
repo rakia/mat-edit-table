@@ -1,0 +1,34 @@
+<table mat-table [dataSource]="dataSource" class="mat-elevation-z8"  (keyup)="onKeyUp($event)">
+
+  <!-- Position Column -->
+  <ng-container matColumnDef="position">
+    <th mat-header-cell *matHeaderCellDef> No. </th>
+    <td mat-cell *matCellDef="let element" class="unselected"> {{element.position}} </td>
+  </ng-container>
+
+  <!-- Name Column -->
+  <ng-container matColumnDef="name">
+    <th mat-header-cell *matHeaderCellDef> Name </th>
+    <td mat-cell (mousedown)="onMouseDown(i, 1, 'name')" (mouseup)="onMouseUp(i, 1, 'name')" *matCellDef="let element; let i = index"
+        [ngClass]="{'selected': selectedCellsState[i][1], 'unselected': !selectedCellsState[i][1]}">
+      {{element.name}}
+    </td>
+  </ng-container>
+
+  <!-- Weight Column -->
+  <ng-container matColumnDef="weight">
+    <th mat-header-cell *matHeaderCellDef> Weight </th>
+    <td mat-cell (mousedown)="onMouseDown(i, 2, 'weight')" (mouseup)="onMouseUp(i, 2, 'weight')" *matCellDef="let element; let i = index"
+        [ngClass]="{'selected': selectedCellsState[i][2], 'unselected': !selectedCellsState[i][2]}"> {{element.weight}} </td>
+  </ng-container>
+
+  <!-- Symbol Column -->
+  <ng-container matColumnDef="symbol">
+    <th mat-header-cell *matHeaderCellDef> Symbol </th>
+    <td mat-cell (mousedown)="onMouseDown(i, 3, 'symbol')" (mouseup)="onMouseUp(i, 3, 'symbol')" *matCellDef="let element; let i = index"
+        [ngClass]="{'selected': selectedCellsState[i][3], 'unselected': !selectedCellsState[i][3]}"> {{element.symbol}} </td>
+  </ng-container>
+
+  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+</table>

@@ -1,0 +1,22 @@
+table {
+  width: 100%;
+}
+
+/*--------  Editable Cells  --------*/
+.selected {
+  border: 1px solid #698ad8;
+}
+.unselected {
+  border-bottom-color: rgba(0, 0, 0, 0.12);
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+}
+/*---- Remove default browser behaviour after selecting cells ----*/
+.selected, .unselected {
+  -webkit-user-select: none; /* Webkit  */
+  -moz-user-select:    none; /* Firefox */
+  -ms-user-select:     none; /* IE 10   */
+  -o-user-select:      none; /* Currently not supported in Opera but will be soon */
+  user-select:         none;
+}
+/*--------End Editable Cells--------*/
