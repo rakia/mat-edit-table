@@ -17,14 +17,6 @@
     "lib": [
       "es2018",
       "dom"
-    ],
-    "paths": {
-      "multi-edit-table": [
-        "dist/multi-edit-table"
-      ],
-      "multi-edit-table/*": [
-        "dist/multi-edit-table/*"
-      ]
-    }
+    ]
   }
 }
