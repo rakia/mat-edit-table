@@ -1,3 +1,6 @@
+The tutorial for this Angular application is available here: https://medium.com/javascript-in-plain-english/angular-material-table-with-edit-function-like-excel-7c2c53332553
+
+
 # MatEditTable
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
