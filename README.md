@@ -6,7 +6,7 @@ https://medium.com/javascript-in-plain-english/angular-material-table-with-edit-
 
 # MatEditTable
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
 
 ## Development server
 
