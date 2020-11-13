@@ -1,7 +1,7 @@
-The tutorial for this Angular application is available here:
+# Angular Inline-Edit Table Like Excel Without Third-Party Library
+## How to edit multiple table’s cells at the same time with Angular Material?
 
-### Angular Inline-Edit Table Like Excel Without Third-Party Library: How to edit multiple table’s cells at the same time with Angular Material?
-https://medium.com/javascript-in-plain-english/angular-material-table-with-edit-function-like-excel-7c2c53332553
+The blog describing this project is available here: https://medium.com/javascript-in-plain-english/angular-material-table-with-edit-function-like-excel-7c2c53332553
 
 
 # MatEditTable
