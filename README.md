@@ -1,3 +1,6 @@
+You can follow me and find more of my articles here: https://rakiabensassi.medium.com/
+And if you would like to support me, you can sign up here: https://rakiabensassi.medium.com/membership
+
 # Angular Inline-Edit Table Like Excel Without Third-Party Library
 ## How to edit multiple table’s cells at the same time with Angular Material?
 
