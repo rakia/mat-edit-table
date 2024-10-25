@@ -1,7 +1,18 @@
-💡 🧠 Join my free email newsletter about engineering, technology, and leadership: https://rakiabensassi.substack.com
+-----
+🔥 🎁 Ready to level up your Software Engineering skills?
 
-You can follow me and find more of my articles here: https://rakiabensassi.medium.com/
-And if you would like to support me, you can sign up here: https://rakiabensassi.medium.com/membership
+Join 36K+ students and check out my video course "Modern Software Engineering: Architecture, Cloud & Security" with DISCOUNT (available for a limited time):
+Coupon: E0D0AE40002BA1BD39D1
+https://www.udemy.com/course/road-from-software-engineer-to-software-architect/?couponCode=50D0AE40002BA1BD39D1
+
+💯 Discount on my video Course: Mastering Web Performance: From Novice to Expert:
+Coupon: DE37FE2C765998DF5289
+https://www.udemy.com/course/identify-and-fix-javascript-memory-leaks/?couponCode=DE37FE2C765998DF5289
+
+💡 🧠  I share content about engineering, technology, and leadership for a community of smart, curious people. Join my newsletter for more insights and tech updates: https://rakiabensassi.substack.com
+
+Follow me on Medium: https://rakiabensassi.medium.com
+---
 
 # Angular Inline-Edit Table Like Excel Without Third-Party Library
 ## How to edit multiple table’s cells at the same time with Angular Material?
