@@ -9,7 +9,7 @@ https://www.udemy.com/course/road-from-software-engineer-to-software-architect/?
 Coupon: DE37FE2C765998DF5289
 https://www.udemy.com/course/identify-and-fix-javascript-memory-leaks/?couponCode=DE37FE2C765998DF5289
 
-💡 🧠  I share content about engineering, technology, and leadership for a community of smart, curious people. Join my newsletter for more insights and tech updates: https://rakiabensassi.substack.com
+💡 🧠  I share content about engineering, technology, and leadership for a community of smart, curious people. Subscribe to my YouTube channel https://www.youtube.com/@tekforge & join my newsletter for more insights and tech updates: https://rakiabensassi.substack.com
 
 Follow me on Medium: https://rakiabensassi.medium.com
 ---
